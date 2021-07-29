@@ -1,1 +1,1 @@
-print("hello from Abc program of python")
+print("hello from Abc of python")
